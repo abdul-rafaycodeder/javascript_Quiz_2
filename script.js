@@ -13,3 +13,11 @@
 
 // let array = ["rafay", "ali", "osama"];
 // console.log(array[2])
+
+
+
+// let array = ["rafay", "ali", "osama"];
+// array.push("bilal")
+// console.log(array)
+
+// console.log(typeof [])
