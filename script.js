@@ -21,3 +21,4 @@
 // console.log(array)
 
 // console.log(typeof [])
+ 
