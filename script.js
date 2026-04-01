@@ -1,20 +1,20 @@
-//javascript OOP object
-let obj = {
-    name: 'rafay',
-    age: 18
-}
-
-//javascript OOP class
-class Student {
-    constructor(name, age, id, clas, rollNumber) {
-        this.name = name
-        this.age = age
-    }
-
-    yaFunctionHai() {
-        console.log(`Student ka naam ya hai ${this.name} or Age hai ya ${this.age} )
-
-    }
+// //javascript OOP class
+// class Student {
+//     constructor(name, age) {
+//         this.name = name
+//         this.age = age
+//     }
+//     StudentData() {
+//         console.log(`Name ${this.name} Age ${this.age}`)
+//     }
+// }
+// const obj = new Student("ali",20)
+// obj.StudentData()
+// console.log(obj)
 
 
-}
+let text = "Hello World";
+let char = text.charAt(0);  
+let char2 = text.charAt(6);  
+console.log(text);
+console.log(char)
