@@ -7,11 +7,8 @@ let obj = {
 //javascript OOP class
 class Student {
     constructor(name, age, id, clas, rollNumber) {
-        this.name = name,
-            this.age = age,
-            this.id = id,
-            this.clas = clas,
-            this.rollNumber = rollNumber
+        this.name = name
+        this.age = age
     }
 
     yaFunctionHai() {
